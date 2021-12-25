@@ -1,7 +1,12 @@
 svg {
     cursor: pointer;
     transition: all 0.2s ease-in-out;
+    margin-bottom: 5px;
   }
   svg:hover {
     transform: scale(1.1);
   }
+
+.nav-item{
+  margin-left: 45vh;
+}
